@@ -10,8 +10,8 @@
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    background-color: var(--primary);
-    color: var(--light);
+    background-color: var(--primary)!important;
+    color: var(--light)!important;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
     line-height: 1.4;
