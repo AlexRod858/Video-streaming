@@ -1,4 +1,4 @@
-class Videos extends HTMLElement {
+class Video extends HTMLElement {
   constructor() {
     super();
     this.innerHTML = `<iframe 
@@ -12,4 +12,4 @@ class Videos extends HTMLElement {
   }
 }
 
-customElements.define('vi-deo', Videos);
+customElements.define('vi-deo', Video);
